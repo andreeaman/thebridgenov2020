@@ -1,0 +1,96 @@
+/week12/day5/*
+NO_SUBIR_COPYRIGHT_init_flask_consciencesai.zip
+sql_server_settings.json
+/others/resources/preparing_interview/python_problems/*
+
+/week5/day5/competition/healthcare/*
+/week9/dayX/*
+/week10/day1/competition/submits/*
+/week10/day1/competition/models/*
+
+TODO_UNIT2.md
+data_science_jun_2020.Rproj
+
+/others/projects/individual/august/students/*
+/others/resources/other_repos/*
+
+*sentiment_by_phrase_elsa*
+*Precurse_Exam*
+/week7/day5/*
+/week6/day4/theory/settings.json
+
+*.h5
+model*
+.vscode/*
+
+*.pub
+.DS_Store
+passwords
+
+
+/.idea/
+*.log
+.cache
+.Python
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# ----------R----------
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# R Environment Variables
+.Renviron
+
+
