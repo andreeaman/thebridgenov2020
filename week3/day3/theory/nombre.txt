@@ -1,0 +1,20 @@
+A string to write
+A string to write
+A string to write
+A string to write
+A string to write
+A string to write
+otra lineas:....
+otra lineas:....
+otra lineas:....
+escribir mas con diacriticos línea
+A string to write 0
+A string to write 1
+A string to write 2
+
+------
+ Last Line.
+ 
+------
+ Last Line.
+ 
