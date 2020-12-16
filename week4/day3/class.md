@@ -8,7 +8,6 @@
 2. python paths - .py
 3. pandas chipotle - solution
 
-
 ---------
 
 **Work-out:**
