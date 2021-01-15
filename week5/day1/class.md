@@ -5,7 +5,7 @@
 **Work-in:**
 
 1. python raise
-2. python webscraping | beautifulsoup & selenium
+2. python webscraping | beautifulsoup & selenium | scrapy
 
 ** Individual project ** 
 ---------

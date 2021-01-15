@@ -8,21 +8,4 @@ A string to write 29
 
 ------
  Last Line.
- Otra línea
-Otra 2
-A string to write 0
-A string to write 1
-A string to write 2
-A string to write 3
-A string to write 4
-A string to write 5
-A string to write 0
-A string to write 1
-A string to write 2
-A string to write 3
-A string to write 4
-A string to write 5
-
-------
- Last Line.
  
