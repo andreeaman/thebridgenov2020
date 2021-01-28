@@ -21,7 +21,6 @@ print("\n####################")
 # TO RUN: 
 #python Z:\Data_Science\TheBridge\Content\Contenido_Curso\data_science_nov_2020\week7\day1\python\arg_parse\1_arg_parse.py -x 2 -y 4 -v 2
 
-
 # 1
 # python o python3 
 # 2
