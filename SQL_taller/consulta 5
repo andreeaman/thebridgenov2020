@@ -1,0 +1,3 @@
+SELECT FirstName ||' '|| LastName as "Nombre Completo", Address||','||City ||','|| Country as "Dirección", Email
+FROM employees
+WHERE Title = 'Sales Support Agent'

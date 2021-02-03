@@ -1,0 +1,4 @@
+SELECT country, COUNT(*) 
+FROM customers
+where Country='Brazil' or Country ='Spain'
+GROUP BY Country 

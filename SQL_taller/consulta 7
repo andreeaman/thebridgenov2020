@@ -1,0 +1,3 @@
+SELECT DISTINCT State
+FROM customers
+WHERE Country = 'USA'
