@@ -10,7 +10,7 @@
     3.2. Limpiar datos: NaN, duplicados, eliminar columnas no relevantes,...
     3.3. Encoder/get_dummies
     3.4. Normalizar [-1, 1], Scalar media = 0, var = 1
-    3.5. Outliers
+    3.5. Outliers?
     3.6. Añadir columnas (mediana, media, varianza, covarianza...) / generar rangos (pd.cut)
     3.7. Reducción de la dimensionalidad, PCA, T-sne (...)
     \\3.8. Eliminar columnas conileanes*
@@ -43,7 +43,7 @@
 8. Sacar el score con el conjunto de test
     8.1 volver al punto 2/3 para intentar encontrar la mejor relación de los datos
 9. Si nuestro score es correcto y tenemos la necesidad de probar nuestro modelo para el mayor conjunto de datos, sería conveniente probar nuestras modificaciones y algoritmo con diferentes semillas aleatorias para comprobar el rendimiento real de nuestro modelo.
-10. Entrenar con todos los datos (X).
+10. Si todo OK -- Entrenar con todos los datos (X).
 11. Guardamos el modelo
 12. Usar el modelo en producción (desplegar el modelo)
 13. Monitorizar el modelo

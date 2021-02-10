@@ -1,13 +1,13 @@
+*.sav*
 *password*
-flask_v2
-
-/week6/*
 
 *selenium_donot_work*
 
 /week3/day4/*
+/week10/day2/competition/submits/*
+
+
 *COPYRIGHT*
-/week12/day5/*
 NO_SUBIR_COPYRIGHT_init_flask_consciencesai.zip
 sql_server_settings.json
 /others/resources/preparing_interview/python_problems/*
@@ -25,7 +25,6 @@ data_science_jun_2020.Rproj
 
 *sentiment_by_phrase_elsa*
 *Precurse_Exam*
-/week7/day5/*
 /week6/day4/theory/settings.json
 
 *.h5
