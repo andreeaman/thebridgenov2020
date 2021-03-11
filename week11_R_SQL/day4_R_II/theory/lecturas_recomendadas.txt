@@ -1,0 +1,6 @@
+Lectura recomendada OReilly
+
+https://learning.oreilly.com/library/view/r-cookbook-2nd/9781492040675/ch02.html # lectura 1
+https://learning.oreilly.com/library/view/r-cookbook-2nd/9781492040675/ch05.html # lectura 2
+https://learning.oreilly.com/library/view/r-cookbook-2nd/9781492040675/ch15.html # lectura 3
+https://learning.oreilly.com/library/view/r-for-data/9781491910382/ch16.html # lectura 4

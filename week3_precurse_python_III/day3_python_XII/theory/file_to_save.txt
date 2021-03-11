@@ -1,0 +1,10 @@
+A string to write
+A string to write 0
+A string to write 1
+A string to write 2
+
+Ester | 20000 | 20
+Gabriel | 20 | 40
+------
+ Last Line.
+ 
